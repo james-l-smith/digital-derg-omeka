@@ -11,8 +11,8 @@ The project will result in a series of articles making use of a spatio-temporal 
 
 This collection contains the following:
 
-CSV UTF-8 delimited text files containing the current draft version of Digital Derg
-CSV UTF-8 delimited text files containing the sub-collections of digital Derg
-A miniature gazetteer of place names
+-CSV UTF-8 delimited text files containing the current draft version of Digital Derg
+-CSV UTF-8 delimited text files containing the sub-collections of digital Derg
+-A miniature gazetteer of place names
 
 This sui generis Omeka database for this project is released under a CC BY 4.0 International license and archived on Zenodo.
